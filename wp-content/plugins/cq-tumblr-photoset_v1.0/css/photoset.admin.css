@@ -1,0 +1,66 @@
+.wrap{
+	width: 100%;
+}
+.admin-thumb-container{
+	width: 80px;
+	height: 105px;
+	overflow: hidden;
+	position: absolute;
+	top: 4px;
+	right: 4px;
+	z-index: 1;
+}
+.thumb-item{
+	cursor: move;
+	margin-top: 8px;
+	padding: 8px;
+	border-radius: 4px;
+	background: #EFEFEF;
+	position: relative;
+}
+
+.thumb-url{
+	width: 70%;
+}
+.admin-thumb-img{
+	width: 80px;
+	margin: 0;
+}
+.item-container{
+	margin: 0;
+	padding: 4px;
+	overflow: hidden;
+	height: 90px;
+	position: relative;
+	z-index: 2;
+}
+.remove-item{
+	z-index: 3;
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background: url(../img/remove.png) 0 0 no-repeat;
+	position: absolute;
+	right: 4px;
+	top: 4px;
+}
+.cq-setting-table{
+	width: 100%;
+}
+.cq-setting-table input, .cq-setting-table select{
+	margin-left: 4px;
+	margin-right: 4px;
+}
+.note-label{
+	font-style: italic;
+	margin-left: 4px;
+}
+.input-label{
+	margin-left: 20px;
+}
+.tiny-text{
+	width: 30px;
+	min-width: 80px;
+	margin-right: 8px;
+}
+

@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: inovado/framework/inc/meta.php:1
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: inovado/functions.php:170
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: inovado/functions.php:168
+msgid "%s"
+msgstr ""
+
+#. Text in function
+#: inovado/functions.php:170
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: inovado/framework/inc/meta.php:1
+msgid "1 Comment"
+msgstr ""
+
+#. Text in echo
+#: inovado/single.php:79
+msgid "About the Author"
+msgstr ""
+
+#. Text in echo
+#: inovado/page-portfolio-col2.php:37
+#: inovado/page-portfolio-col1.php:37
+#: inovado/page-portfolio-col4.php:37
+#: inovado/page-portfolio-col3.php:37
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: inovado/archive.php:14
+#: inovado/archive.php:17
+#: inovado/archive.php:20
+msgid "Archive for"
+msgstr ""
+
+#. Text in echo
+#: inovado/page-sitemap.php:63
+msgid "Archives by Month"
+msgstr ""
+
+#. Text in echo
+#: inovado/archive.php:23
+msgid "Author Archive"
+msgstr ""
+
+#. Text in echo
+#: inovado/404.php:24
+msgid "Back to Home"
+msgstr ""
+
+#. Text in echo
+#: inovado/footer.php:128
+msgid "Back to Top"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:116
+#: inovado/footer.php:97
+msgid "Behance"
+msgstr ""
+
+#. Text in echo
+#: inovado/archive.php:26
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: inovado/page-sitemap.php:32
+msgid "Blog Categories"
+msgstr ""
+
+#. Text in echo
+#: inovado/archive.php:8
+msgid "Category Archive for"
+msgstr ""
+
+#. Text in echo
+#: inovado/framework/inc/portfolio/wide.php:57
+#: inovado/framework/inc/portfolio/sidebyside.php:64
+msgid "Client"
+msgstr ""
+
+#. Text in function
+#: inovado/framework/inc/shortcodes.php:378
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: inovado/comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: inovado/framework/inc/portfolio/wide.php:59
+#: inovado/framework/inc/portfolio/sidebyside.php:66
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:125
+#: inovado/footer.php:106
+#: inovado/framework/inc/sharebox.php:33
+msgid "Delicious"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:113
+#: inovado/footer.php:94
+msgid "DeviantArt"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:86
+#: inovado/footer.php:67
+#: inovado/framework/inc/sharebox.php:28
+msgid "Digg"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:74
+#: inovado/footer.php:55
+msgid "Dribbble"
+msgstr ""
+
+#. Text in echo
+#: inovado/framework/inc/widgets/contact.php:44
+#: inovado/framework/inc/sharebox.php:43
+msgid "E-Mail"
+msgstr ""
+
+#. Text in function
+#: inovado/comments.php:48
+msgid "E-Mail (required)"
+msgstr ""
+
+#. Text in echo
+#: inovado/404.php:5
+msgid "Error 404"
+msgstr ""
+
+#. Text in echo
+#: inovado/404.php:21
+msgid "Error 404! Sorry, but we couldn't find the content you were looking for."
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:80
+#: inovado/footer.php:61
+#: inovado/framework/inc/sharebox.php:8
+msgid "Facebook"
+msgstr ""
+
+#. Text in echo
+#: inovado/framework/inc/widgets/contact.php:40
+msgid "Fax"
+msgstr ""
+
+#. Text in echo
+#: inovado/page-sitemap.php:26
+msgid "Feeds"
+msgstr ""
+
+#. Text in echo
+#: inovado/404.php:20
+msgid "File not Found"
+msgstr ""
+
+#. Text in function
+#: inovado/functions.php:185
+msgid "First"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:77
+#: inovado/footer.php:58
+msgid "Flickr"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:71
+#: inovado/footer.php:52
+msgid "Forrst"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:89
+#: inovado/footer.php:70
+msgid "Google"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:89
+#: inovado/footer.php:70
+#: inovado/framework/inc/sharebox.php:38
+msgid "Google+"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:92
+#: inovado/footer.php:73
+msgid "Instagram"
+msgstr ""
+
+#. Text in function
+#: inovado/functions.php:185
+msgid "Last"
+msgstr ""
+
+#. Text in echo
+#: inovado/page-portfolio-col1.php:124
+#: inovado/framework/inc/portfolio/wide.php:63
+#: inovado/framework/inc/portfolio/sidebyside.php:70
+msgid "Launch Project"
+msgstr ""
+
+#. Text in function
+#: inovado/comments.php:48
+msgid "Leave a reply"
+msgstr ""
+
+#. Text in function
+#: inovado/framework/inc/post-format/single-link.php:7
+#: inovado/framework/inc/post-format/content-link.php:18
+msgid "Link to %s"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:95
+#: inovado/footer.php:76
+#: inovado/framework/inc/sharebox.php:18
+msgid "LinkedIn"
+msgstr ""
+
+#. Text in function
+#: inovado/comments.php:48
+msgid "Name (required)"
+msgstr ""
+
+#. Text in function
+#: inovado/framework/inc/titlebar.php:129
+#: inovado/functions.php:185
+msgid "Next"
+msgstr ""
+
+#. Text in function
+#: inovado/framework/inc/meta.php:1
+msgid "No Comments"
+msgstr ""
+
+#. Text in echo
+#: inovado/index.php:102
+#: inovado/search.php:53
+#: inovado/archive.php:65
+msgid "Not Found"
+msgstr ""
+
+#. Text in function
+#: inovado/functions.php:185
+msgid "Page"
+msgstr ""
+
+#. Text in echo
+#: inovado/page-sitemap.php:72
+msgid "Pages"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:122
+#: inovado/footer.php:103
+msgid "PayPal"
+msgstr ""
+
+#. Text in function
+#: inovado/framework/inc/post-format/content-link.php:10
+#: inovado/framework/inc/post-format/content-audio.php:15
+#: inovado/framework/inc/post-format/content-gallery.php:18
+#: inovado/framework/inc/post-format/content-gallery.php:28
+#: inovado/framework/inc/post-format/content.php:16
+#: inovado/framework/inc/post-format/content.php:22
+#: inovado/framework/inc/post-format/content.php:30
+#: inovado/framework/inc/post-format/content-video.php:16
+#: inovado/search.php:32
+#: inovado/framework/inc/post-format/single-quote.php:8
+#: inovado/framework/inc/post-format/single-audio.php:11
+#: inovado/framework/inc/post-format/single-gallery.php:17
+#: inovado/framework/inc/post-format/single-video.php:11
+#: inovado/framework/inc/post-format/content-quote.php:9
+#: inovado/framework/inc/post-format/content-quote.php:17
+#: inovado/framework/inc/post-format/single.php:15
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in echo
+#: inovado/framework/inc/widgets/contact.php:36
+msgid "Phone"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:110
+#: inovado/footer.php:91
+msgid "Picasa"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:119
+#: inovado/footer.php:100
+msgid "Pinterest"
+msgstr ""
+
+#. Text in echo
+#: inovado/archive.php:11
+msgid "Posts Tagged"
+msgstr ""
+
+#. Text in function
+#: inovado/framework/inc/titlebar.php:130
+#: inovado/functions.php:185
+msgid "Previous"
+msgstr ""
+
+#. Text in echo
+#: inovado/framework/inc/portfolio/wide.php:48
+#: inovado/framework/inc/portfolio/sidebyside.php:55
+msgid "Project Description"
+msgstr ""
+
+#. Text in echo
+#: inovado/framework/inc/portfolio/wide.php:54
+#: inovado/framework/inc/portfolio/sidebyside.php:61
+msgid "Project Details"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:131
+#: inovado/footer.php:112
+msgid "RSS"
+msgstr ""
+
+#. Text in function
+#: inovado/framework/inc/shortcodes.php:378
+msgid "Read More &rarr;"
+msgstr ""
+
+#. Text in echo
+#: inovado/framework/inc/sharebox.php:23
+msgid "Reddit"
+msgstr ""
+
+#. Text in echo
+#: inovado/single.php:94
+msgid "Related Posts"
+msgstr ""
+
+#. Text in echo
+#: inovado/single-portfolio.php:24
+msgid "Related Projects"
+msgstr ""
+
+#. Text in function
+#: inovado/comments.php:17
+msgid "Response <span>(1)</span>"
+msgstr ""
+
+#. Text in function
+#: inovado/comments.php:17
+msgid "Responses"
+msgstr ""
+
+#. Text in function
+#: inovado/comments.php:17
+msgid "Responses <span>(%)</span>"
+msgstr ""
+
+#. Text in echo
+#: inovado/search.php:6
+msgid "Search Results for"
+msgstr ""
+
+#. Text in echo
+#: inovado/framework/inc/sharebox.php:3
+msgid "Share this Story"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:83
+#: inovado/footer.php:64
+msgid "Skype"
+msgstr ""
+
+#. Text in function
+#: inovado/comments.php:48
+msgid "Submit comment"
+msgstr ""
+
+#. Text in echo
+#: inovado/page-sitemap.php:50
+#: inovado/framework/inc/portfolio/wide.php:60
+#: inovado/framework/inc/portfolio/sidebyside.php:67
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: inovado/comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#. Text in echo
+#: inovado/searchform.php:2
+msgid "To search type and hit enter"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:104
+#: inovado/footer.php:85
+msgid "Tumblr"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:68
+#: inovado/footer.php:49
+#: inovado/framework/inc/sharebox.php:13
+msgid "Twitter"
+msgstr ""
+
+#. Text in echo
+#: inovado/page-portfolio-col1.php:122
+msgid "View Details"
+msgstr ""
+
+#. Text in echo
+#: inovado/framework/inc/meta.php:1
+msgid "View all posts by"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:98
+#: inovado/footer.php:79
+msgid "Vimeo"
+msgstr ""
+
+#. Text in echo
+#: inovado/framework/inc/widgets/contact.php:48
+msgid "Web"
+msgstr ""
+
+#. Text in function
+#: inovado/comments.php:48
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:128
+#: inovado/footer.php:109
+msgid "XING"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:101
+#: inovado/footer.php:82
+msgid "Yahoo"
+msgstr ""
+
+#. Text in echo
+#: inovado/header.php:107
+#: inovado/footer.php:88
+msgid "YouTube"
+msgstr ""
+
+#. Text in echo
+#: inovado/functions.php:178
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: inovado/footer.php:11
+msgid "loading..."
+msgstr ""
+
+#. Text in function
+#: inovado/functions.php:185
+msgid "of"
+msgstr ""
+
+#. Text in function
+#: inovado/functions.php:185
+msgid "read more"
+msgstr ""
+
